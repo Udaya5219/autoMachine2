@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-14T18:11:32 IST" name="Suite" finished-at="2023-04-14T18:12:09 IST" duration-ms="36922">
+    <groups>
+    </groups>
+    <test started-at="2023-04-14T18:11:32 IST" name="Test2" finished-at="2023-04-14T18:12:09 IST" duration-ms="36922">
+      <class name="uk.co.automationtesting.StoreLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:uk.co.automationtesting.StoreLoginTest@2dc54ad4]" started-at="2023-04-14T18:11:33 IST" name="setup" finished-at="2023-04-14T18:11:50 IST" duration-ms="17292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AddRemoveItem()[pri:0, instance:uk.co.automationtesting.StoreLoginTest@2dc54ad4]" started-at="2023-04-14T18:11:50 IST" name="AddRemoveItem" finished-at="2023-04-14T18:12:07 IST" duration-ms="16792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRemoveItem -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:uk.co.automationtesting.StoreLoginTest@2dc54ad4]" started-at="2023-04-14T18:12:07 IST" name="TearDown" finished-at="2023-04-14T18:12:09 IST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- uk.co.automationtesting.StoreLoginTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
